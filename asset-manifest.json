@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lalff/lalff.github.io/static/css/main.76d96e51.css",
+    "main.js": "/lalff/lalff.github.io/static/js/main.95b6037a.js",
+    "static/media/fafa.jpg": "/lalff/lalff.github.io/static/media/fafa.30d297bfa8ee67162ad4.jpg",
+    "static/media/fe.jpg": "/lalff/lalff.github.io/static/media/fe.9b723ac47d9fffd10e83.jpg",
+    "static/media/lu.jpg": "/lalff/lalff.github.io/static/media/lu.56f769ae4f90d318f0ea.jpg",
+    "static/media/anna.jpg": "/lalff/lalff.github.io/static/media/anna.24bc786c994cc594b901.jpg",
+    "static/media/lua.jpg": "/lalff/lalff.github.io/static/media/lua.bf661ad27a82d9e713ea.jpg",
+    "static/media/placeholder.png": "/lalff/lalff.github.io/static/media/placeholder.64cdcb0ef97818161310.png",
+    "static/media/logolalff.png": "/lalff/lalff.github.io/static/media/logolalff.4293538754a1954daa25.png",
+    "static/media/logo.png": "/lalff/lalff.github.io/static/media/logo.83a9f2d26a70e0691fa3.png",
+    "index.html": "/lalff/lalff.github.io/index.html",
+    "main.76d96e51.css.map": "/lalff/lalff.github.io/static/css/main.76d96e51.css.map",
+    "main.95b6037a.js.map": "/lalff/lalff.github.io/static/js/main.95b6037a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76d96e51.css",
+    "static/js/main.95b6037a.js"
+  ]
+}
